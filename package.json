@@ -1,0 +1,17 @@
+{
+    "name": "com.faaah.erroraudio",
+    "version": "1.0.0",
+    "displayName": "FAAAH - Error Audio Alert",
+    "description": "Plays a custom audio clip whenever a Console error or exception appears in the Unity Editor.",
+    "unity": "2020.3",
+    "keywords": [
+        "editor",
+        "audio",
+        "error",
+        "console",
+        "alert"
+    ],
+    "author": {
+        "name": "FAAAH"
+    }
+}
