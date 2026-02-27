@@ -9,7 +9,7 @@ Editor-only — does not run in builds. Auto-initializes after every script relo
 **Unity Package Manager → Add package from git URL:**
 
 ```
-https://github.com/AshwinMPaii/FAAAH.git
+https://github.com/Pratik77221/FAAAH.git
 ```
 
 Or clone this repo and use **Add package from disk...** → select `package.json`.
